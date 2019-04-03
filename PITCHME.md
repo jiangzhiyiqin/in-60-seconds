@@ -22,6 +22,10 @@
 ---?color=#E58537
 @title[Add A Little Imagination]
 
+@snap[center]
+\[x_t + y_t = \bar{a}_t \]
+@snapend
+
 @snap[north-west]
 #### Add a splash of @color[cyan](**color**) and you are ready to start presenting...
 @snapend
